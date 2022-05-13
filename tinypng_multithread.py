@@ -10,7 +10,7 @@ import tinify
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED, FIRST_COMPLETED
 import time
 
-tinify.key = "834W5WL5gbC1G7HGN1wmkHC53SqFZWbV"		# API KEY
+tinify.key = "*************"		# API KEY
 version = "1.0.1"				# 版本
 totalCompressSize = 0             # 统计压缩结果
 
